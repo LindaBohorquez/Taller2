@@ -1,0 +1,9 @@
+@article{anchapaxi2024uso,
+  title={Uso de Chatbots educativos y su impacto en el aprendizaje aut{\'o}nomo en bachillerato},
+  author={Anchapaxi-D{\'\i}az, Carola Lyn and Pinenla-Palaguaray, Yolanda Marlene and Caiza-Olapincha, Sandra Patricia and Parra-Taboada, Irina Antonieta and Abad-Guam{\'a}n, Mayra Alexandra and Vi{\~n}amagua-Arias, Br{\'\i}gida Ver{\'o}nica},
+  journal={Revista Cient{\'\i}fica Retos de la Ciencia},
+  volume={1},
+  number={4},
+  pages={200--214},
+  year={2024}
+}
